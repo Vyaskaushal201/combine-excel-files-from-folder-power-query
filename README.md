@@ -62,7 +62,7 @@ The solution reads multiple Excel files from a folder, cleans the raw data, stan
 
 ### Final Clean Dataset
 
-<img src="https://github.com/Vyaskaushal201/combine-excel-files-from-folder-power-query/blob/cb198b2e2dba99ee088ad2f3efa4aa5e5eb404c1/Images/Monthly-Sales-Report-Chart.png.png" alt="Image Description" width="600">
+<img src="https://github.com/Vyaskaushal201/combine-excel-files-from-folder-power-query/blob/98ba3c0408009a5d7114117db29ff4d78b42e7d3/Images/Final-Sales-Dataset.png.png" alt="Image Description" width="600">
 
 ---
 
