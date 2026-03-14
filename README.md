@@ -50,13 +50,13 @@ The solution reads multiple Excel files from a folder, cleans the raw data, stan
 
 ### Product Sales by Month Report
 
-<img src="https://github.com/Vyaskaushal201/combine-excel-files-from-folder-power-query/blob/6c03bec0fd331a99ef2d02cf3723c658f450659a/Images/Power-Query-Transformation-Steps.png.png" alt="Image Description" width="600">
+<img src="https://github.com/Vyaskaushal201/combine-excel-files-from-folder-power-query/blob/cb198b2e2dba99ee088ad2f3efa4aa5e5eb404c1/Images/Monthly-Sales-Report-Chart.png.png" alt="Image Description" width="600">
 
 ---
 
 ### Power Query Transformation Steps
 
-<img src="https://github.com/Vyaskaushal201/combine-excel-files-from-folder-power-query/blob/cb198b2e2dba99ee088ad2f3efa4aa5e5eb404c1/Images/Monthly-Sales-Report-Chart.png.png" alt="Image Description" width="600">
+<img src="https://github.com/Vyaskaushal201/combine-excel-files-from-folder-power-query/blob/6c03bec0fd331a99ef2d02cf3723c658f450659a/Images/Power-Query-Transformation-Steps.png.png" alt="Image Description" width="600">
 
 ---
 
