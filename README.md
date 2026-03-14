@@ -56,13 +56,13 @@ The solution reads multiple Excel files from a folder, cleans the raw data, stan
 
 ### Power Query Transformation Steps
 
-![Power Query Steps](images/power_query_steps.png)
+<img src="https://github.com/Vyaskaushal201/combine-excel-files-from-folder-power-query/blob/cb198b2e2dba99ee088ad2f3efa4aa5e5eb404c1/Images/Monthly-Sales-Report-Chart.png.png" alt="Image Description" width="600">
 
 ---
 
 ### Final Clean Dataset
 
-![Clean Dataset](images/final_dataset.png)
+<img src="https://github.com/Vyaskaushal201/combine-excel-files-from-folder-power-query/blob/cb198b2e2dba99ee088ad2f3efa4aa5e5eb404c1/Images/Monthly-Sales-Report-Chart.png.png" alt="Image Description" width="600">
 
 ---
 
