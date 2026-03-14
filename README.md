@@ -90,4 +90,5 @@ It is not affiliated with or based on real data from Apple Inc.
 ## Author
 
 Kaushal
+|
 Aspiring Data Analyst
