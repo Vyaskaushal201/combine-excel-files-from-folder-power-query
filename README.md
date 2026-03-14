@@ -50,7 +50,7 @@ The solution reads multiple Excel files from a folder, cleans the raw data, stan
 
 ### Product Sales by Month Report
 
-![Sales Chart](images/sales_chart.png)
+<img src="https://github.com/Vyaskaushal201/Gmail-To-Excel-Automation/blob/e87784d210005aea2a88de8fc343e31020e2bc0e/PowerQuery_Transformation_Steps.png" alt="Image Description" width="600">
 
 ---
 
