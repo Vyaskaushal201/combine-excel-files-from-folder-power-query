@@ -4,7 +4,11 @@
 
 This project demonstrates how Microsoft Excel Power Query can automate the process of combining multiple monthly sales reports into a single structured dataset.
 
-The solution reads multiple Excel files from a folder, cleans the raw data, standardizes the structure, and produces a dataset ready for analysis and reporting.
+In many organizations, analysts receive sales data in separate Excel files every month. Manually cleaning and consolidating these files is time-consuming.
+
+This solution automates the process by connecting to a folder containing multiple Excel files, cleaning the raw data, and producing a structured dataset ready for analysis.
+
+The final output includes a clean sales dataset and a product sales report by month.
 
 ---
 
